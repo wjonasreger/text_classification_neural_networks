@@ -1,1 +1,3 @@
-# text_classification_neural_networks
+# Text Classification with Neural Networks
+
+In this notebook, machine learning models are implemented to predict the sentiment of movie reviews using the [IMDb movie reviews dataset](https://ai.stanford.edu/~amaas/data/sentiment/) through the `torchtext` package. Specifically, classifiers based on Convolutional Neural Networks (CNN's) and Recurrent Neural Networks (RNN's) are implemented. Both models attain approximately 83% test accuracy using the cross-entropy loss criterion. Both models are stored in `models.zip`.
